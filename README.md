@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently refactoring my git:
 - You can connect with me also in:
 <a href="https://www.linkedin.com/in/lionel-duval-703958139/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+
 <div align="center">
 ***
 | ![lvoneduval's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvoneduval&hide=stars,prs,issues,contribs&show_icons=true&theme=merko) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublioElio&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
 |:-:|:-:|
-</div>
 ---
-
+</div>
 <h4 align="center"> Glad to see you here! </h4>
 <!--
 <div align="center">

@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ---
 
 <h4 align="center"> Glad to see you here! </h4>
-
+<!--
 <div align="center">
   <img alt="lvoneduval's visitors" src="https://komarev.com/ghpvc/?username=lvoneduval&color=red&style=flat&label=visitors" />
 </div>
-
+-->
 <h3 align="center"> If you find useful any of my repositories, a star 🌟 would be nice! :blush: </h3>

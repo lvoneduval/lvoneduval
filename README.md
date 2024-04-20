@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmo0cWs2OW8zaGMzYjI5cjdzdG1mOHludmZjMm1vdWNlZ2oybGZhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" width="250"/>
 
 - 👋 Hi, I’m Lionel Duval

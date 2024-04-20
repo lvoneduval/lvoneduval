@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ***
-| ![42](https://img.shields.io/badge/-white?logo=42&logoColor=black)<br>![cisco](https://img.shields.io/badge/-white?logo=cisco&logoColor=black)| ![lvoneduval's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvoneduval&hide=stars,prs,issues,contribs&show_icons=true&theme=merko) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublioElio&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
+| ![42](https://img.shields.io/badge/-white?style=for-the-badge&logo=42&logoColor=black)<br>![cisco](https://img.shields.io/badge/-white?style=for-the-badge&logo=cisco&logoColor=black)| ![lvoneduval's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvoneduval&hide=stars,prs,issues,contribs&show_icons=true&theme=merko) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PublioElio&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
 |:-:|:-:|:-:|
 ---
   

@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Lionel Duval
 - 👀 I have an interest in software development, app development, system administration, network security, agile methodologies, DevOps, and cybersecurity.
 - 🚧 I’m currently refactoring my git 🚧
-- You can connect with me also in:
-<a href="https://www.linkedin.com/in/lionel-duval-703958139/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 
 ***
